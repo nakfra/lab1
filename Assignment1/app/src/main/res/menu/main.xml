@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity" >
+
+    <item android:id="@+id/action_addContact"
+        android:title="@string/title_activity_contact"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_changeBackgroundColor"
+        android:title="Change Color"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_random"
+        android:title="Random Number"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+
+
+
+
+
+</menu>
